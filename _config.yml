@@ -1,4 +1,8 @@
 title: Bidon-Futé
+tagline: le plein le moins cher, sans détour.
 description: Le plein le moins cher autour de vous, avec les prix officiels. Sans pub ni pistage.
+lead: "Les prix officiels de toutes les stations-service de France, sur une carte, triés par prix, par distance ou par coût réel du trajet. Sans compte, sans publicité, sans pistage."
 lang: fr
-theme: jekyll-theme-minimal
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }
